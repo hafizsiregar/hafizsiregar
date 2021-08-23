@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hafizsiregar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, Saya Hafiz Siregar
+- 👀 Saya merupakan seorang Mobile Developer
+- 🌱 Saya merupakan mahasiswa Teknik Informatika
+- 💞️ Jika kamu tertarik ikuti akun [Linkedin]
+(https://www.linkedin.com/in/hafiz-siregar-323881213/)ku ya
 
 <!---
 hafizsiregar/hafizsiregar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
